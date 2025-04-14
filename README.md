@@ -1,5 +1,7 @@
 # jsonschema-for-toml
 
+[![CI](https://github.com/foolishell/jsonschema-for-toml/actions/workflows/ci.yml/badge.svg)](https://github.com/foolishell/jsonschema-for-toml/actions/workflows/ci.yml)
+
 A command-line tool for validating TOML files against JSON Schema.
 
 This tool is inspired by [jsonschema-cli](https://github.com/Stranger6667/jsonschema/tree/master/crates/jsonschema-cli) and provides similar functionality, but specifically for TOML files.
