@@ -1,0 +1,3 @@
+name = "Jane Doe"
+age = "twenty"  # should be an integer
+email = "jane@example.com" 
