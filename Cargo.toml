@@ -2,6 +2,13 @@
 name = "jsonschema-for-toml"
 version = "0.1.0"
 edition = "2024"
+authors = ["foolishell"]
+description = "A command-line tool for validating TOML files against JSON Schema."
+license = "MIT"
+repository = "https://github.com/foolishell/jsonschema-for-toml"
+keywords = ["jsonschema", "toml", "validation"]
+categories = ["command-line-tools"]
+readme = "README.md"
 
 [dependencies]
 anyhow = "1.0.86"
